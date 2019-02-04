@@ -1,0 +1,59 @@
+h1{
+	text-align: center;
+	font-family: "Courier New";
+	font-size: 32pt;
+	margin-bottom: 2px;
+	text-decoration: italic;
+
+}
+
+img{
+	border-radius: 50%;
+	border: 1px solid #ddd;
+	padding: 5px;
+	height: 240px;
+	width: 240px;
+}
+
+h2,h3,h4{
+
+	text-align: left;
+	font-family: "Courier New";
+	font-size: 16pt;
+	margin-bottom: 2px;
+
+}
+
+p{
+	text-align: center;
+	font-family:"Courier New";
+	font-size:12pt;
+	margin-bottom: 2px;
+}
+
+p1{
+	text-align: left;
+	font-family:"Courier New";
+	font-size:12pt;
+	margin-bottom: 2px;
+}
+
+ul{
+  	list-style-type: circle;
+  	text-align: left;
+	font-family:"Courier New";
+	font-size:12pt;
+	margin-bottom: 2px;
+}
+
+a {
+    color: #010101;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
