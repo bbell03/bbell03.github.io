@@ -1,4 +1,8 @@
 
+body{
+  background-color: white;
+}
+
 .navbar {
   overflow: hidden;
   background-color: white;
@@ -7,12 +11,12 @@
   padding-bottom:5px;
   left: 0;
   width: 100%; /* Full width */
-  border-bottom:1px #00A0C6;
+  border-bottom:1px #F0F8FF;
 
 }
 
 .main {
-	margin-top: 130px;
+	margin-top: 155px;
 }
 
 h1{
@@ -25,7 +29,7 @@ h1{
 }
 
 img{
-	margin-top:60px;
+	margin-top: 25px;
 	border-radius: 50%;
 	border: 1px solid #ddd;
 	padding: 5px;
@@ -46,7 +50,8 @@ h5{
 	text-align: center;
 	font-family: "Courier New";
 	font-size: 12pt;
-	margin-bottom: 2px;
+	margin-bottom: 50px;
+	margin-top: 0px
 
 }
 
