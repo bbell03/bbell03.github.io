@@ -1,0 +1,83 @@
+
+body{
+  background-color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: white;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  padding-bottom:5px;
+  left: 0;
+  width: 100%; /* Full width */
+  border-bottom:1px #F0F8FF;
+
+}
+
+.main {
+	margin-top: 155px;
+}
+
+h1{
+	text-align: center;
+	text-decoration-color: black;
+	font-family: "Courier New";
+	font-size: 32pt;
+	margin-bottom: 0px;
+
+}
+
+img{
+	margin-top: 25px;
+	border-radius: 50%;
+	border: 1px solid #ddd;
+	padding: 5px;
+	height: 240px;
+	width: 240px;
+}
+
+h2,h3,h4{
+
+	text-align: left;
+	font-family: "Courier New";
+	font-size: 16pt;
+	margin-bottom: 0px;
+
+}
+
+h5{
+	text-align: center;
+	font-family: "Courier New";
+	font-size: 12pt;
+	margin-bottom: 50px;
+	margin-top: 0px
+
+}
+
+p{
+	text-align: left;
+	font-family: "Courier New";
+	font-size: 12pt;
+	margin-bottom: 0px;
+}
+
+ul{
+  	list-style-type: circle;
+  	text-align: left;
+	font-family: "Courier New";
+	font-size: 12pt;
+	margin-bottom: 2px;
+}
+
+a {
+    color: #010101;
+    text-decoration: none;
+}
+
+a:hover
+{
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
+}
